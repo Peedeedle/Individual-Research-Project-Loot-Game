@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet1
+  - Enemy1
+  - Wall
+  - Enemy2
+  - EnemyBoss
+  - Enemy
+  - WhiteLoot
+  - GreenLoot
+  - BlueLoot
+  - PinkLoot
+  - RedLoot
+  - GunVar
+  - SMGBullet
+  - M4Bullet
+  - AKBullet
+  - P90Bullet
+  - PistolBullet
+  - AmmoPowerup
+  - HealthPowerup
+  - MoneyMan
+  - CloseCircle
+  - MiddleCircle
+  - FarCircle
+  - WhiteWallBuyArea
+  - GreenWallBuyArea
+  - BlueWallBuyArea
+  - PinkWallBuyArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - LootLayer
+  - BulletLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
